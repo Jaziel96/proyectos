@@ -1,0 +1,16 @@
+body {
+background-color: rgb(223, 223, 223);
+margin: 0px;
+}
+div {box-sizing:border-box;}
+header{background-color: white;padding: 10px;
+}
+header h1{margin: 0px;}
+div.caja1{background-color: white;margin-top: 10px;
+}
+div.caja1 img{width: 100%;}
+div.caja1 .post-header div:first-child{display: inline-block;;width: 80%;}
+div.caja1 .post-header div:last-child{display: inline-block;;width: 20%;text-align: right; padding: 10px;color: gray;}
+div.caja1 h2, div.caja1 p {padding:10px;margin: 0px;}
+div.contenido{width: 600px;
+margin: auto;}
